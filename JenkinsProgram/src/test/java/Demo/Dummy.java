@@ -6,7 +6,7 @@ public class Dummy {
 	
 		
 		System.out.println("Ranajit");
-
+        System.out.println("Bairagi");
 	}
 
 }
